@@ -1,0 +1,24 @@
+[0.482s] Invoking command in '/home/mustafa/ros2_ws/build/turtlesim_catch_them_all': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mustafa/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mustafa/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mustafa/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data
+[0.655s] running develop
+[0.746s] running egg_info
+[0.746s] creating turtlesim_catch_them_all.egg-info
+[0.755s] writing turtlesim_catch_them_all.egg-info/PKG-INFO
+[0.755s] writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+[0.755s] writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+[0.755s] writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+[0.755s] writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+[0.755s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.773s] reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.773s] writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[0.783s] running build_ext
+[0.783s] Creating /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+[0.783s] Installing turtle_spawner script to /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[0.783s] 
+[0.783s] Installed /home/mustafa/ros2_ws/build/turtlesim_catch_them_all
+[0.783s] running symlink_data
+[0.783s] creating /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/share/ament_index
+[0.783s] creating /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[0.783s] creating /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.783s] symbolically linking /home/mustafa/ros2_ws/build/turtlesim_catch_them_all/resource/turtlesim_catch_them_all -> /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[0.783s] symbolically linking /home/mustafa/ros2_ws/build/turtlesim_catch_them_all/package.xml -> /home/mustafa/ros2_ws/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[0.800s] Invoked command in '/home/mustafa/ros2_ws/build/turtlesim_catch_them_all' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mustafa/ros2_ws/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mustafa/ros2_ws/install/turtlesim_catch_them_all/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mustafa/ros2_ws/build/turtlesim_catch_them_all/build --no-deps symlink_data
